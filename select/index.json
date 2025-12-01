@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "【OffVocal】 私は最強(Mrs.GREENAPPLE Ver)【ニコカラ】【instrumental】【カラオケ】",
+  "base_artist": "Snap Records【Offvocal化世界最速】",
+  "createdAt": "2025-12-01T10:27:16.860258Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "私は最強",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_私は最強_Ado.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "私は最強 - ウタ from ONE PIECE FILM RED",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_02_私は最強_-_ウタ_from_ONE_PIECE_FILM_RED_Ado.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "私は最強 - ウタ from ONE PIECE FILM RED",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_03_私は最強_-_ウタ_from_ONE_PIECE_FILM_RED_Ado.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "私は最強",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_04_私は最強_Ado.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "私は最強",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_05_私は最強_Ado.txt"
+    }
+  ]
+}
